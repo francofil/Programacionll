@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xugyj7+pd0E3eUer5l7Yd9ycBATd13vCJ6wBH7LB7AvDBuLL1oqVcXFA7UOyc1rnKELcI5ZUKeIOlszVrklrFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\Documents\\2° Semestre\\Programación 2\\Proyectos\\PII_Full_GRASP_and_SOLID_1_Start\\src\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
